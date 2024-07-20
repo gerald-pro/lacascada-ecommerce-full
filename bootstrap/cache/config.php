@@ -7,7 +7,7 @@
   array (
     'name' => 'Laravel',
     'env' => 'production',
-    'debug' => false,
+    'debug' => true,
     'url' => 'https://mail.tecnoweb.org.bo/inf513/grupo13sa/prueba/lacascada-ecommerce-full',
     'frontend_url' => 'http://localhost:3000',
     'asset_url' => '/inf513/grupo13sa/prueba/lacascada-ecommerce-full/public',
