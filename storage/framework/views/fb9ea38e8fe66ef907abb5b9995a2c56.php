@@ -1,1 +1,0 @@
-<?php /**PATH C:\laragon\www\lacascada-ecommerce\vendor\rappasoft\laravel-livewire-tables\resources\views\stubs\custom.blade.php ENDPATH**/ ?>
