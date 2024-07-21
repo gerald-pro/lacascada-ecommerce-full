@@ -76,6 +76,6 @@ Route::post('/callback', [PaymentService::class, 'callback']);
 
 require __DIR__ . '/auth.php';
 
-Livewire::setUpdateRoute(function ($handle) {
+/* Livewire::setUpdateRoute(function ($handle) {
     return Route::post('/inf513/grupo13sa/lacascada-ecommerce-full/public/livewire/update', $handle);
-});
+}); */

@@ -1,0 +1,1 @@
+<a <?php echo e($attributes->merge(['class' => 'text-primary dark:text-slate-200 hover:text-primary-hover transition ease-in-out duration-150'])); ?>><?php echo e($slot); ?></a><?php /**PATH C:\laragon\www\lacascada-ecommerce\resources\views\components\link.blade.php ENDPATH**/ ?>
